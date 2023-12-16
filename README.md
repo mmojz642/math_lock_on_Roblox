@@ -13,15 +13,12 @@ To install, follow the directions:
 3. Edit the *.bat file to point to the correct file locations
 4. If you want to be tricky like me, you can also edit icons
 
-Detailed instructions:
+Additional details to instructions:
 
 1. Python script:
 
    This is written for a 1st grader, so only includes addition and subtraction for nubmers 1 - 20.
    It also is ordered so that negative answers do not result. Edit as needed.
-
-2. - 3. *.bat file:
-   No additional settings should be needed
 
 4. Adding icons
 
